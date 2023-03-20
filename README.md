@@ -1,10 +1,10 @@
 # Welcome to our open-source repository!
 
-We've developed a full-fledged web application using the latest technologies and tools. Our project is built with **TypeScript**, **Vite**, **Vue 3**, **Vue Router**, **Pinia**, **Cypress**, **Vitest**, **Vue Query**, **ESLint**, **Prettier**, **Sass**, and **vue i18n**.
+We've developed a full-fledged web application using the latest technologies and tools. Our project is built with **TypeScript**, **Vite**, **Vue 3**, **Vue Router**, **Pinia**, **Cypress**, **Vitest**, **TanStack Query**, **ESLint**, **Prettier**, **Sass**, and **vue i18n**.
 
 **TypeScript** brings static typing to JavaScript, making it more robust and maintainable. We've leveraged **Vite** to ensure fast development and quick builds, making it easier for developers to work on the project. **Vue 3**, **Vue Router**, and **Pinia** have been used together to create an efficient and responsive frontend framework, along with a robust state management solution.
 
-We've used **Cypress** and **Vitest** to perform automated end-to-end testing, ensuring the quality of our application. **Vue Query** has been incorporated to provide efficient and convenient data fetching and management. We've also used **ESLint** and **Prettier** to ensure our code adheres to industry-standard practices, making it more consistent, reliable, and maintainable.
+We've used **Cypress** and **Vitest** to perform automated end-to-end testing, ensuring the quality of our application. **TanStack Query** has been incorporated to provide efficient and convenient data fetching and management. We've also used **ESLint** and **Prettier** to ensure our code adheres to industry-standard practices, making it more consistent, reliable, and maintainable.
 
 In terms of styling, we've used **Sass** to write modular and scalable CSS code. And with **vue i18n**, we've made our application easily translatable, allowing users to switch between different languages.
 
@@ -12,19 +12,19 @@ Our repository is built with the latest technology and best practices to deliver
 
 ## Tech
 
-| Logo                                                                                                                       | Name       | Link                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
-| <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo"> | Typescript | [https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript)   |
-| <img height="70" src="https://vitejs.dev/logo.svg" alt="Vite logo">                                                        | Vite       | [https://github.com/vitejs/vite](https://github.com/vitejs/vite)                     |
-| <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue 3 logo">             | Vue 3      | [https://github.com/vuejs/core](https://github.com/vuejs/core)                       |
-| <img height="70" src="https://vitest.dev/logo.svg" alt="Vitest logo">                                                      | Vitest     | [https://github.com/vitest-dev/vitest](https://github.com/vitest-dev/vitest)         |
-| <img height="70" src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="Cypress logo">                          | Cypress    | [https://github.com/cypress-io/cypress](https://github.com/cypress-io/cypress)       |
-| <img height="70" src="https://pinia.vuejs.org/logo.svg" alt="Pinia logo">                                                  | Pinia      | [https://github.com/vuejs/pinia](https://github.com/vuejs/pinia)                     |
-| <img height="70" src="https://vue-query.vercel.app/vue-query.svg" alt="Vue Query logo">                                    | Vue Query  | [https://github.com/tanstack/query](https://github.com/tanstack/query)               |
-| <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="ESLint logo">              | ESLint     | [https://github.com/eslint/eslint](https://github.com/eslint/eslint)                 |
-| <img height="70" src="https://prettier.io/icon.png" alt="Prettier logo">                                                   | Prettier   | [https://github.com/prettier/prettier](https://github.com/prettier/prettier)         |
-| <img height="70" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass logo">                           | Sass       | [https://github.com/sass/sass](https://github.com/sass/sass)                         |
-| <img height="70" src="https://vue-i18n.intlify.dev/vue-i18n-logo.png" alt="Vue i18n logo">                                 | Vue i18n   | [https://github.com/intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) |
+| Logo                                                                                                                       | Name            | Link                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------ |
+| <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo"> | Typescript      | [https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript)   |
+| <img height="70" src="https://vitejs.dev/logo.svg" alt="Vite logo">                                                        | Vite            | [https://github.com/vitejs/vite](https://github.com/vitejs/vite)                     |
+| <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue 3 logo">             | Vue 3           | [https://github.com/vuejs/core](https://github.com/vuejs/core)                       |
+| <img height="70" src="https://vitest.dev/logo.svg" alt="Vitest logo">                                                      | Vitest          | [https://github.com/vitest-dev/vitest](https://github.com/vitest-dev/vitest)         |
+| <img height="70" src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="Cypress logo">                          | Cypress         | [https://github.com/cypress-io/cypress](https://github.com/cypress-io/cypress)       |
+| <img height="70" src="https://pinia.vuejs.org/logo.svg" alt="Pinia logo">                                                  | Pinia           | [https://github.com/vuejs/pinia](https://github.com/vuejs/pinia)                     |
+| <img height="70" src="https://vue-query.vercel.app/vue-query.svg" alt="TanStack Query logo">                               | TanStack Query  | [https://github.com/tanstack/query](https://github.com/tanstack/query)               |
+| <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="ESLint logo">              | ESLint          | [https://github.com/eslint/eslint](https://github.com/eslint/eslint)                 |
+| <img height="70" src="https://prettier.io/icon.png" alt="Prettier logo">                                                   | Prettier        | [https://github.com/prettier/prettier](https://github.com/prettier/prettier)         |
+| <img height="70" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass logo">                           | Sass            | [https://github.com/sass/sass](https://github.com/sass/sass)                         |
+| <img height="70" src="https://vue-i18n.intlify.dev/vue-i18n-logo.png" alt="Vue i18n logo">                                 | Vue i18n        | [https://github.com/intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) |
 
 | Script         | Description                                                                      |
 | -------------- | -------------------------------------------------------------------------------- |
